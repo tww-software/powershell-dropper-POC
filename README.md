@@ -1,7 +1,7 @@
 # Proof of concept Powershell script dropper
 
 A basic proof of concept for a powershell staged malware dropper.
-
+WHILST THE ACTUAL CODE BEING EXECUTED IS HARMLESS, THIS MAY SHOW UP AS MALWARE!
 
 ## Files are:
 * downloadandexecute.ps1 - the script that is eventually executed
